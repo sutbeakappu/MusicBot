@@ -101,7 +101,7 @@
     "cmd-clean-reply": "清除 {0} 條消息。",
     "playlists-noperms": "您無權請求播放清單",
     "playlists-big": "播放清單包含太多項目 ({0} > {1})",
-    "playlists-limit": "撥放清單項目 + 已經新增的歌曲，已超過上限值  ({0} + {1} > {2})",
+    "playlists-limit": "播放清單項目 + 已經新增的歌曲，已超過上限值  ({0} + {1} > {2})",
     "karaoke-enabled": "卡拉OK模式已啟用，請在此模式禁用時再試一次！",
     "left-no-owner-guilds": "因為沒有找到機器人的擁有者所以留下了 `{}`。"
 }
